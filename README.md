@@ -1,3 +1,3 @@
 cca_samples
 ===========
-This is a test update 2
+Cordova Chrome App samples for Hackathon
